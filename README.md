@@ -55,7 +55,5 @@ pip install -r requirements.txt
 - Correlation analysis between sentiment and stock movements
 - Statistical validation
 
-## Timeline
-- Challenge Introduction: May 28, 2025
-- Interim Submission: May 30, 2025
-- Final Submission: June 3, 2025 
+mkdir -p data output
+
