@@ -123,16 +123,6 @@ python src/main.py
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Timeline
-
-- Challenge Introduction: May 28, 2025
-- Interim Submission: May 30, 2025
-- Final Submission: June 3, 2025
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - TextBlob for sentiment analysis
